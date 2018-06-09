@@ -16,6 +16,7 @@ while True:
 	#pour sortir
 	if cv2.waitKey(1) & 0xFF == ord('q'):
 		break
+	# Coucou Clément c'est ton cousin
 		
 #close
 cv2.destroyAllWindows()
